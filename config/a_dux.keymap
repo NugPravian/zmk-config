@@ -43,10 +43,10 @@
 
         layer_3 {
             bindings = <
-&bootloader  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-&trans       &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-&trans       &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
-                                     &trans  &trans    &trans  &trans
+&bootloader  &sys_reset  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
+&trans       &trans      &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
+&trans       &trans      &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans
+                                         &trans  &trans    &trans  &trans
             >;
         };
     };
