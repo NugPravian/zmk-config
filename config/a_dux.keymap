@@ -79,6 +79,11 @@
             bindings = <&kp EQUAL>;
             key-positions = <25 26>;
         };
+
+        up {
+            bindings = <&kp UP_ARROW>;
+            key-positions = <2 7>;
+        };
     };
 
     keymap {
