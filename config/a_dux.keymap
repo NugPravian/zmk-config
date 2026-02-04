@@ -20,6 +20,21 @@
             bindings = <&kp LEFT_GUI>;
             key-positions = <30 31>;
         };
+
+        test {
+            bindings = <&kp T>;
+            key-positions = <24>;
+        };
+
+        test {
+            bindings = <&kp T>;
+            key-positions = <24>;
+        };
+
+        test {
+            bindings = <&kp T>;
+            key-positions = <24>;
+        };
     };
 
     keymap {
