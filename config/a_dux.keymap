@@ -121,83 +121,63 @@
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        apos {
+            bindings = <&kp APOS>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        dqt {
+            bindings = <&kp DOUBLE_QUOTES>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        comma {
+            bindings = <&kp COMMA>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        lt {
+            bindings = <&kp LESS_THAN>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        period {
+            bindings = <&kp PERIOD>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        gt {
+            bindings = <&kp GREATER_THAN>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        lbkt {
+            bindings = <&kp LEFT_BRACKET>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        lbrc {
+            bindings = <&kp LEFT_BRACE>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        rbkt {
+            bindings = <&kp RIGHT_BRACKET>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        rbrc {
+            bindings = <&kp LEFT_BRACE>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
+        grave {
+            bindings = <&kp GRAVE>;
             key-positions = <24>;
         };
 
-        test {
-            bindings = <&kp T>;
-            key-positions = <24>;
-        };
-
-        test {
-            bindings = <&kp T>;
-            key-positions = <24>;
-        };
-
-        test {
-            bindings = <&kp T>;
-            key-positions = <24>;
-        };
-
-        test {
-            bindings = <&kp T>;
-            key-positions = <24>;
-        };
-
-        test {
-            bindings = <&kp T>;
+        tilde {
+            bindings = <&kp TILDE>;
             key-positions = <24>;
         };
     };
