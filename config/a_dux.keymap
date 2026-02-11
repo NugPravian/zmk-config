@@ -21,47 +21,47 @@
             key-positions = <30 31>;
         };
 
-        test {
+        excl {
             bindings = <&kp EXCLAMATION>;
             key-positions = <24>;
         };
 
-        test {
+        at {
             bindings = <&kp AT_SIGN>;
             key-positions = <24>;
         };
 
-        test {
+        hash {
             bindings = <&kp HASH>;
             key-positions = <24>;
         };
 
-        test {
+        dollar {
             bindings = <&kp DOLLAR>;
             key-positions = <24>;
         };
 
-        test {
+        percent {
             bindings = <&kp PERCENT>;
             key-positions = <24>;
         };
 
-        test {
+        caret {
             bindings = <&kp CARET>;
             key-positions = <24>;
         };
 
-        test {
+        amps {
             bindings = <&kp AMPS>;
             key-positions = <24>;
         };
 
-        test {
+        asterisk {
             bindings = <&kp ASTRK>;
             key-positions = <24>;
         };
 
-        test {
+        lpar {
             bindings = <&kp LEFT_PARENTHESIS>;
             key-positions = <24>;
         };
@@ -71,52 +71,52 @@
             key-positions = <24>;
         };
 
-        test {
+        eqaul {
             bindings = <&kp EQUAL>;
             key-positions = <24>;
         };
 
-        test {
+        plus {
             bindings = <&kp PLUS>;
             key-positions = <24>;
         };
 
-        test {
+        minus {
             bindings = <&kp MINUS>;
             key-positions = <24>;
         };
 
-        test {
+        under {
             bindings = <&kp UNDERSCORE>;
             key-positions = <24>;
         };
 
-        test {
+        fslh {
             bindings = <&kp SLASH>;
             key-positions = <24>;
         };
 
-        test {
+        qmark {
             bindings = <&kp QUESTION>;
             key-positions = <24>;
         };
 
-        test {
+        bslh {
             bindings = <&kp BACKSLASH>;
             key-positions = <24>;
         };
 
-        test {
+        pipe {
             bindings = <&kp PIPE>;
             key-positions = <24>;
         };
 
-        test {
+        semi {
             bindings = <&kp SEMI>;
             key-positions = <24>;
         };
 
-        test {
+        colon {
             bindings = <&kp COLON>;
             key-positions = <24>;
         };
